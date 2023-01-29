@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew! <br/><a href="https://github.com/andrewkucharczyk1">Programmer</a>, <a href="https://www.linkedin.com/in/andrew-kucharczyk/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Andrew! <br/><a href="https://github.com/akucharczyk1">Programmer</a>, <a href="https://www.linkedin.com/in/andrew-kucharczyk/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
