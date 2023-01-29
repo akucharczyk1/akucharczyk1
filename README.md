@@ -6,7 +6,7 @@
 
 <h2>📝 Certifications</h2>
 
-- [Security+](https://whateverurl.com/)
+- [Security+](https://www.credly.com/badges/cd66c06c-d385-4d07-be5e-ffa12062ee83/public_url)
 - [ITILv4](https://whateverurl.com/)
 
 <h2> 🤳 Connect with me:</h2>
