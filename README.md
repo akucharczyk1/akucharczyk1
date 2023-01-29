@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- [Network Port Scanner](https://github.com/andrewkucharczyk1/LABURL)
+- [Secure Password Generator](https://github.com/akucharczyk1/SecurePasswordGenerator)
 
 <h2>📝 Certifications</h2>
 
