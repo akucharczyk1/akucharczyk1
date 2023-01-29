@@ -7,7 +7,7 @@
 <h2>📝 Certifications</h2>
 
 - [Security+](https://www.credly.com/badges/cd66c06c-d385-4d07-be5e-ffa12062ee83/public_url)
-- [ITILv4]((https://i.imgur.com/L9HE0kF.png)
+- [ITILv4](https://i.imgur.com/L9HE0kF.png)
 
 <h2> 🤳 Connect with me:</h2>
 
